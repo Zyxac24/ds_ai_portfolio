@@ -3,6 +3,9 @@ site_author: Dariusz Poślad
 site_description: >-
     Portfolio moich wspaniałych projektów z Data Science i AI!
 
+repo_name: Zyxac24/ds_ai_portfolio
+repo_url: https://github.com/Zyxac24/ds_ai_portfolio
+
 theme:
   name: material
   palette:
